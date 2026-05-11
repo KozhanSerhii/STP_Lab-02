@@ -1,0 +1,8 @@
+services:
+  nginx:
+    image: nginx
+    container_name: compose-nginx
+    ports:
+      - "8080:80"
+    volumes:
+      - ../1-container:/usr/share/nginx/html:ro

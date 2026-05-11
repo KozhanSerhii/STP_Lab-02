@@ -1,0 +1,5 @@
+10.0.2.2 - - [07/May/2026 21:08:59] "GET / HTTP/1.1" 200 -
+10.0.2.2 - - [07/May/2026 21:08:59] "GET /style.css HTTP/1.1" 200 -
+10.0.2.2 - - [07/May/2026 21:08:59] "GET /docker-logo.png HTTP/1.1" 200 -
+10.0.2.2 - - [07/May/2026 21:09:00] code 404, message File not found
+10.0.2.2 - - [07/May/2026 21:09:00] "GET /favicon.ico HTTP/1.1" 404 -
